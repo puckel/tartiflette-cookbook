@@ -27,8 +27,8 @@ default['tartiflette']['ingredient']['white_large_onion'] = 2
 # Recommends : Arbois white wine (https://en.wikipedia.org/wiki/Jura_wine)
 default['tartiflette']['ingredient']['glass_white_wine'] = 2
 
-# In Celcius degrees
-default['tartiflette']['instruction']['preheat_oven']['temperature'] = 220
+# In Celsius degrees
+default['tartiflette']['instruction']['preheat_oven']['temperature'] = 220 # 428°F
 # In minutes
 default['tartiflette']['instruction']['preheat_oven']['time'] = 20
 default['tartiflette']['instruction']['bake']['timer'] = 15
