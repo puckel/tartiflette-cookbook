@@ -3,6 +3,9 @@ tartiflette Cookbook
 
 Installs or compiles/installs a tartiflette in your stomach.
 
+![tartiflette](http://i.imgur.com/2yrexKE.jpg)
+
+
 Motto
 =====
 
